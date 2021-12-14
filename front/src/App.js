@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         < MyDateContainer
+         <MyDateContainer
             firstName= 'Dima'
             lastName = 'Yaroshenko'
             bday = '05.09.1995'

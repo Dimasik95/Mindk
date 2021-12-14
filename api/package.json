@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint ./src",
+    "lint": "eslint ./sr",
     "lint-fix": "eslint ./src --fix"
   },
   "author": "",
@@ -21,3 +21,4 @@
     "prettier": "2.5.1"
   }
 }
+
